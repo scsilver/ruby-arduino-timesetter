@@ -1,0 +1,5 @@
+Ruby version of a serial communicator for Arduino. Connection is initiated by arduino, triggering the ruby file to send a time to the Arduino. The Arduino then sets it’s time and tells the ruby script the time set on the Arduino board. The Ruby file then greets the arduino, the arduino responds. 
+
+Adjust greetings to send commands from the ruby and send data from the arduino.
+
+Could not find a ruby version of this elsewhere so here is one to help with your projects.
